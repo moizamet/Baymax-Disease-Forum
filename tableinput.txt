@@ -1,0 +1,8 @@
+<td>Fever:</td>
+<td>Appetite:</td>
+<td>Headache:</td>
+<td>Weakness:</td>
+<td>Body Ache:</td>
+<td>Other:</td>
+<td>Extra:</td>
+<td>You have:</td>
